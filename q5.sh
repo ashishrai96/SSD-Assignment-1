@@ -4,7 +4,10 @@
 # [ -e temp_activity ] && rm -R temp_activity
 
 ### Creating a directory temp_activity and navigating to it.
-mkdir temp_activity
+if [ ! -d temp_activity ];
+then
+    mkdir temp_activity
+fi
 cd temp_activity
 
 
