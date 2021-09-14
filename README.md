@@ -13,7 +13,7 @@
 ---
 ---
 
-### [q1.sh]()
+### [q1.sh](https://github.com/ashishrai96/SSD-Assignment-1/blob/master/q1.sh)
 
 > Overview
 
@@ -21,7 +21,7 @@
 
 ---
 
-### [q2.sh]()
+### [q2.sh](https://github.com/ashishrai96/SSD-Assignment-1/blob/master/q2.sh)
 
 > Overview
 
@@ -41,7 +41,7 @@
 
 ---
 
-### [q3.sh]()
+### [q3.sh](https://github.com/ashishrai96/SSD-Assignment-1/blob/master/q3.sh)
 
 > Overview
 * This script will check whether a given input string which when permuted, matches with any of the _bash commands_. If it does, those commands would be printed on terminal in a sorted way with delimeter as tab.
@@ -53,7 +53,7 @@ If nothing matches, **NO** string will be printed on terminal.
 
 ---
 
-### [q4.sh]()
+### [q4.sh](https://github.com/ashishrai96/SSD-Assignment-1/blob/master/q4.sh)
 
 > Overview
 * This script does 3 things.
@@ -83,7 +83,7 @@ If nothing matches, **NO** string will be printed on terminal.
 
 ---
 
-### [q5.sh]()
+### [q5.sh](https://github.com/ashishrai96/SSD-Assignment-1/blob/master/q5.sh)
 
 > Overview
 * This script would do the following set of actions:
