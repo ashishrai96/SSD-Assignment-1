@@ -5,7 +5,7 @@
 ---
 ---
 >Disclaimer
-* If the below script files, doesn't execute and raher ask for permission. Run the below command, to grant execute permission: 
+* If the below script files, doesn't execute and rather ask for permission. Run the below command, to grant execute permission: 
 
     ```
     chmod +x q1.sh q2.sh q3.sh q4.sh q5.sh
