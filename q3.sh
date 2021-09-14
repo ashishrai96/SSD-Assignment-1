@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/bin/bash
 
 ### Function to sort a word alphabetically
 func_word_sort(){
